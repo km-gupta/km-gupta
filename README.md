@@ -42,12 +42,26 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats & Widgets
 
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=km-gupta&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=km-gupta&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=km-gupta&theme=tokyonight&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blue&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=km-gupta&label=Profile%20views&color=blue&style=flat)
+
+
+---
+
+## ⚡ Technologies I Code With
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)  
+![TestNG](https://img.shields.io/badge/-TestNG-black?style=flat-square&logo=testng)  
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)  
+![REST Assured](https://img.shields.io/badge/-RestAssured-black?style=flat-square&logo=rest-assured)  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
+![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=apachemaven)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 
 ---
 
