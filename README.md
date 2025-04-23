@@ -55,12 +55,12 @@ Here are some ideas to get you started:
 ## ⚡ Technologies I Code With
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)  
-![TestNG](https://img.shields.io/badge/-TestNG-black?style=flat-square&logo=testng)  
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)  
-![REST Assured](https://img.shields.io/badge/-RestAssured-black?style=flat-square&logo=rest-assured)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=apachemaven)  
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+![TestNG](https://img.shields.io/badge/-TestNG-black?style=flat-square&logo=testng)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![REST Assured](https://img.shields.io/badge/-RestAssured-black?style=flat-square&logo=rest-assured)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=apachemaven)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 
 ---
