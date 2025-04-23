@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies I Code With
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)  
 ![TestNG](https://img.shields.io/badge/-TestNG-black?style=flat-square&logo=testng)  
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)  
